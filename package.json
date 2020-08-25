@@ -1,0 +1,22 @@
+{
+  "name": "awesome-reduce",
+  "version": "1.0.0",
+  "description": "> A curated list of awesome reception how to reduce power and traffic consumption",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grigorii-horos/awesome-reduce.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grigorii-horos/awesome-reduce/issues"
+  },
+  "homepage": "https://github.com/grigorii-horos/awesome-reduce#readme",
+  "devDependencies": {
+    "markdownlint": "^0.20.4"
+  }
+}
