@@ -2,7 +2,9 @@
 
 > A curated list of awesome reception how to reduce power and traffic consumption
 
-In 99% of time we have access to fast internet and power supply, this list contain recipes for 1% of time when we have bad internet or need to save battery power.
+In 99% of time we have access to fast internet and power supply,
+this list contain recipes for 1% of time when we have bad internet
+or need to save battery power.
 
 * [Internet Traffic](#internet-traffic)
   * [Blocking Ads](#blocking-ads)
@@ -12,6 +14,7 @@ In 99% of time we have access to fast internet and power supply, this list conta
   * [Android](#android)
   * [Linux](#linux)
   * [Windows](#windows)
+  * [Arm](#arm)
 
 ## Internet Traffic
 
@@ -43,4 +46,10 @@ In 99% of time we have access to fast internet and power supply, this list conta
 * Power management - <https://wiki.archlinux.org/index.php/Power_management>
 * Improving performance - <https://wiki.archlinux.org/index.php/Improving_performance>
 
+#### KDE
+
+#### Gnome
+
 ### Windows
+
+### Arm
