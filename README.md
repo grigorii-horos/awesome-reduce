@@ -48,8 +48,21 @@ or need to save battery power.
 
 #### KDE
 
+* Disable Ballo - <https://askubuntu.com/questions/1049076/18-04-kubuntu-kde-power-consumption-is-extremely-high-slowdown>
+
 #### Gnome
 
 ### Windows
 
 ### Arm
+
+#### Pinebook Pro
+
+* Buy - <https://www.pine64.org/pinebook-pro/>
+
+> Review:
+
+* <https://arstechnica.com/gadgets/2020/06/pinebook-pro-review-a-200-foss-to-the-hilt-magnesium-chassis-laptop/>
+* <https://pocketnow.com/pinebook-pro-review-a-200-laptop-thats-only-for-cool-people>
+* [ru] <https://habr.com/ru/post/479392/>
+* [ru] <https://habr.com/ru/post/486242/>
